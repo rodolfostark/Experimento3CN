@@ -1,0 +1,9 @@
+function x = gauss (A, b)
+    //pegar as dimensões da matriz A
+    //criar minha matriz aumentada a partir de minha matriz A
+    //criar um métodinho iterativo para solucionar o sistema.
+    
+    [Linhas, Colunas] = size(A);
+    
+    matrizAumentadaA = [A, b];
+endfunction
