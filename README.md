@@ -1,1 +1,1 @@
-# Experimento3Computa-oNum-rica
+# Experimento 3 Computação numérica (Big Bang)
