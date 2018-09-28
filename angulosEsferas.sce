@@ -1,4 +1,4 @@
-exec('path/document'); // "path" é o caminho para o arquivo "tabelaComPosicoesDeCadaEsfera.sce", enquanto document é o nome do próprio arquivo
+exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\tabelaComPosicoesDeCadaEsfera.sce'); // "path" é o caminho para o arquivo "tabelaComPosicoesDeCadaEsfera.sce", enquanto document é o nome do próprio arquivo
 
 arc = eye(3,4); //definição de uma matriz cujas dimensões são 3x4 (3 esferas e 4 fotos). Logo, as colunas se referem às fotos e as linhas às cores
 

@@ -1,7 +1,7 @@
 //recuperando dados de arquivos/implementações anteriores
 
-exec('caminho\tabelaComPosicoesDeCadaEsfera.sce')
-exec('caminho\tabelaComAngulosDeCadaEsfera.sce')
+exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\tabelaComPosicoesDeCadaEsfera.sce')
+exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\tabelaComAngulosDeCadaEsfera.sce')
 
 //iremos concatenar os vetores e usaremos apenas as colunas relativas às duas primeiras fotos
 X = [x_vermelha(:,[1,2]); x_verde(:,[1,2]); x_azul(:,[1,2])]; //concatenação dos vetores x em uma única matriz X de forma a facilitar as operações
