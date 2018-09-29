@@ -1,11 +1,11 @@
 
 clear
 
-exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\tabelaComPosicoesDeCadaEsfera.sce');
-exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\tabelaComAngulosDeCadaEsfera.sce');
-exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\calculadoraDeVelocidades.sce');
-exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\Sistemas de equações lineares - algoritmo de solução\fatoracao LU.sce');
-exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\Sistemas de equações lineares - algoritmo de solução\sistemasDeEquações.sce');
+exec('path\tabelaComPosicoesDeCadaEsfera.sce');
+exec('path\tabelaComAngulosDeCadaEsfera.sce');
+exec('path\calculadoraDeVelocidades.sce');
+exec('path\Sistemas de equações lineares - algoritmo de solução\fatoracao LU.sce');
+exec('path\Sistemas de equações lineares - algoritmo de solução\sistemasDeEquações.sce');
 
 //Serão implementadas uma resoução para cada esfera colorida
 //calculando os coeficientes da matriz A
