@@ -2,6 +2,8 @@ function [x, numItera] = gauss_seidel(A, b, x0, e, numIteraMax)//a função vai 
     [l, c] = size(A);
     erro = 1;
     numItera = 0;
+    //vale lembrar que x0 é o array de soluções iniciais e como vimos em aula, ele deve ser iniciado com zeros, ou seja um array com as mesmas dimensões de b 
+    //porém com as coordenadas zerada
     x = x0;
     while  erro > e & numIntera < numIteraMax
         numItera = numItera + 1;
