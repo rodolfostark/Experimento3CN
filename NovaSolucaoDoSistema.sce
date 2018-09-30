@@ -1,10 +1,10 @@
 clear
 
-exec('C:\Users\mateu\Documents\UFRN\4o_Periodo\Calculo Numerico\GitCN\3oExperimento\Experimento3CN\tabelaComPosicoesDeCadaEsfera.sce');
-exec('C:\Users\mateu\Documents\UFRN\4o_Periodo\Calculo Numerico\GitCN\3oExperimento\Experimento3CN\\tabelaComAngulosDeCadaEsfera.sce');
-exec('C:\Users\mateu\Documents\UFRN\4o_Periodo\Calculo Numerico\GitCN\3oExperimento\Experimento3CN\calculadoraDeVelocidades.sce');
-exec('C:\Users\mateu\Documents\UFRN\4o_Periodo\Calculo Numerico\GitCN\3oExperimento\Experimento3CN\Sistemas de equações lineares - algoritmo de solução\fatoracao LU.sce');
-exec('C:\Users\mateu\Documents\UFRN\4o_Periodo\Calculo Numerico\GitCN\3oExperimento\Experimento3CN\Sistemas de equações lineares - algoritmo de solução\sistemasDeEquações.sce');
+exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\tabelaComPosicoesDeCadaEsfera.sce');
+exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\tabelaComAngulosDeCadaEsfera.sce');
+exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\calculadoraDeVelocidades.sce');
+exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\Sistemas de equações lineares - algoritmo de solução\fatoracao LU.sce');
+exec('C:\Users\bennb\OneDrive\Área de Trabalho\Experimento3CN\Sistemas de equações lineares - algoritmo de solução\sistemasDeEquações.sce');
 
 //Serão implementadas uma resoução para cada esfera colorida
 //calculando os coeficientes da matriz A
